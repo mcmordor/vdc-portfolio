@@ -18,7 +18,7 @@ Original electrical model and project documentation: Isaak Meakin. Linked Autode
 ## Closeout items
 
 - Add the confirmed LinkedIn URL and resume PDF/link beside the header identity; no guessed or placeholder destinations are published.
-- Résumé, LinkedIn, outreach and a narrated walkthrough remain follow-ups.
+- All 30 sessions are complete, including the reviewed website narrative and final capstone closeout. Gate 6 is Approved and the website completion counts are reconciled. Resume, LinkedIn, outreach and a narrated video remain separate follow-ups.
 - Sheet DWG paper layouts still require CAD-viewer review if that verification is to be claimed.
 
 ## Download packages
@@ -26,11 +26,3 @@ Original electrical model and project documentation: Isaak Meakin. Linked Autode
 All 27 supplied model/export/companion files are included once across the download ZIPs. Archive contents preserve original filenames. `assets/downloads/file-manifest.json` records sizes and SHA-256 hashes. Each package is below GitHub’s individual-file size limit.
 
 The preserved raw Navisworks HTML export references a companion image folder that was not present in the reviewed source package. The public clash-summary page remains readable; the download is labeled accordingly.
-
-## Project closeout
-
-All 30 capstone sessions are complete and Gate 6 is approved. Isaak accepted website package v003 on October 15, 2026. The tracker and public session history record Sessions 29–30 complete.
-
-The website is the final portfolio presentation. The earlier portfolio PDF is not included. Seven download packages contain the 27 supplied model, export and companion files. The internal tracker and style guide are retained privately.
-
-Website: https://mcmordor.github.io/vdc-portfolio/
