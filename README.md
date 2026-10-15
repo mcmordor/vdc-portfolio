@@ -17,9 +17,9 @@ Original electrical model and project documentation: Isaak Meakin. Linked Autode
 
 ## Closeout items
 
-- Add the confirmed LinkedIn URL and resume PDF/link beside the header identity; no guessed or placeholder destinations are published.
-- All 30 sessions are complete, including the reviewed website narrative and final capstone closeout. Gate 6 is Approved and the website completion counts are reconciled. Resume, LinkedIn, outreach and a narrated video remain separate follow-ups.
-- Sheet DWG paper layouts still require CAD-viewer review if that verification is to be claimed.
+- The homepage introduction links to the approved [resume PDF](assets/documents/isaak-meakin-resume.pdf) and confirmed [LinkedIn profile](https://www.linkedin.com/in/isaak-meakin/).
+- All 30 sessions are complete, including the reviewed website narrative and final capstone closeout. Gate 6 is Approved and the website completion counts are reconciled. Resume and LinkedIn links are complete. Outreach and a narrated video remain separate follow-ups.
+- CAD exports were checked and confirmed working by Isaak on October 15, 2026.
 
 ## Download packages
 

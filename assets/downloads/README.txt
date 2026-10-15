@@ -17,8 +17,9 @@ DWGs and resolve image paths in CAD if necessary. PCP files are companion
 plotting settings; their support depends on the CAD software in use.
 
 Prior project checks recorded an RVT reopen, NWC inspection in Navisworks,
-and a representative 3D DWG review. Sheet DWG paper layouts have not had a
-CAD-viewer review. Packaging verifies file presence and archive integrity;
+and a representative 3D DWG review. Isaak subsequently confirmed the CAD
+exports work correctly on October 15, 2026. Packaging verifies file presence
+and archive integrity;
 it does not add native-application checks or certify a construction design.
 
 Official Autodesk Snowdon Towers source:
