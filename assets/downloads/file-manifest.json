@@ -1,0 +1,164 @@
+[
+  {
+    "package": "electrical-model-rev01.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak-Meakin_Rev01.rvt",
+    "size_bytes": 33878016,
+    "sha256": "6b809a2926023604cc9111445304f262facc477ed880207e629ae975b4de0108"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak-Meakin_Rev01-Autodesk-Logo-845455.png",
+    "size_bytes": 5791,
+    "sha256": "31205838c81bf55ba0a6e95afd8feab31b51a94c00cb991a8c17aa3fd07ad4e1"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak-Meakin_Rev01-autodesk-logo-black-1282376.tif",
+    "size_bytes": 24488,
+    "sha256": "86a3e6228db44e4efcada4c25292871b232cfcb5eb018ac6d7df4b5187e305c9"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-3D View - 3D - Electrical Coordination.dwg",
+    "size_bytes": 3061144,
+    "sha256": "96208d685ee8b9508e1c27bbe642b1599990705b831fb5c057094786bef0b5dd"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-3D View - 3D - Electrical Coordination.pcp",
+    "size_bytes": 22489,
+    "sha256": "9f11a2c8ae54421bf395974cceee9304f80b35a819a3524276a486ac4fcea4b9"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E0-01 - Cover & Sheet Index.dwg",
+    "size_bytes": 258120,
+    "sha256": "b57fb412dae6cad25343de18d82aba57e959e47d629fb6b9ba6f56575e6fcf07"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E0-01 - Cover & Sheet Index.pcp",
+    "size_bytes": 22457,
+    "sha256": "6c466b94a92b04ea5abf8076c28ddbe2495e08d0cd23f92e3f99321312d324ef"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E101 - Retail 109 - Raceways.dwg",
+    "size_bytes": 555755,
+    "sha256": "a2ce7f7d0428ffb3a21905cb14d434da4bb71405c50b4a98e517ae175f71b8cc"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E101 - Retail 109 - Raceways.pcp",
+    "size_bytes": 22491,
+    "sha256": "1c8c6c4b072a78415797061650cf013cf76c6d0f92a7a6e2abdfd264fe0882ce"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E102 - Electrical Room - Equipment.dwg",
+    "size_bytes": 120080,
+    "sha256": "ca9e76267007fdb95ac97b7fee181cb82e569fef4ac4f0accae62b160b51df5f"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E102 - Electrical Room - Equipment.pcp",
+    "size_bytes": 22474,
+    "sha256": "2f0eb239da6394872436370b15d87c4e6bc5d8bcc861879dcff12a0b05ec5717"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E103 - Raceway Coordination.dwg",
+    "size_bytes": 237097,
+    "sha256": "a5f8bf92b3163830342ea3b869534a67cd976013cdc28301dc8d66c775d647eb"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - E103 - Raceway Coordination.pcp",
+    "size_bytes": 22475,
+    "sha256": "89278fff6e949b6e5c04d7870e394893cc4a09186ea205d30f3919ce0941108f"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - IS1-01 - Retail 109 - Rack Installation.dwg",
+    "size_bytes": 258793,
+    "sha256": "aba4cc24517acc0bcc6bc135827b0644a7ebe8bc5e53239525a2ecc74ced3879"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - IS1-01 - Retail 109 - Rack Installation.pcp",
+    "size_bytes": 22470,
+    "sha256": "6ea40ddb859ea75c4585a737a125b4c661a55e7ad5ba0d773640607ec33c7c45"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - MTO-01 - Material Takeoff.dwg",
+    "size_bytes": 38474,
+    "sha256": "46813dd5039cb15ed0df1748b4fa4206ecba2c922ed5f8207cb1ea5468878801"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - MTO-01 - Material Takeoff.pcp",
+    "size_bytes": 22449,
+    "sha256": "e9aef3e71c635fbaf8ff8433736012e8cffdaf187f0a21bddc7bbfd7fa0723d7"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - PF1-01 - Conduit Rack - Prefab Build.dwg",
+    "size_bytes": 201429,
+    "sha256": "906005767706034a9afb44c3d7c41379b3f94d1b3186f5971e486ecf00ed55b3"
+  },
+  {
+    "package": "cad-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-Sheet - PF1-01 - Conduit Rack - Prefab Build.pcp",
+    "size_bytes": 22468,
+    "sha256": "ede064490d7b8c84ff9a2cd11158214aadc2e6ce757baa0fd26ea3a898fdcbaf"
+  },
+  {
+    "package": "coordination-exports-rev01.zip",
+    "filename": "ST-VDC-01_Coordination_Isaak-Meakin_Rev01.nwc",
+    "size_bytes": 19840043,
+    "sha256": "e85ce6d19358e3d5fa066e31adde5272433ed781d8a35f74d597fd01bac91317"
+  },
+  {
+    "package": "coordination-exports-rev01.zip",
+    "filename": "ST-VDC-01_Isaak-Meakin_Rev01-3D View - 3D - Electrical Coordination.nwc",
+    "size_bytes": 842839,
+    "sha256": "6bf085867e2ca11354fd3dc6d731cc79d62192b3575ac11bda324924ae4cfe8f"
+  },
+  {
+    "package": "working-files-v001.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak_v001.rvt",
+    "size_bytes": 39469056,
+    "sha256": "aa814cab41a36bae852497d827232ba9379c435f90605d88ca74b6ffc399410c"
+  },
+  {
+    "package": "working-files-v001.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak_v001.nwc",
+    "size_bytes": 19855157,
+    "sha256": "6ae7dde110413c1dfa5575e2ed77e12ba43203148b88ec543241b37da512f54b"
+  },
+  {
+    "package": "working-files-v001.zip",
+    "filename": "ST-VDC-01_Electrical_Isaak_v001_NWF.nwf",
+    "size_bytes": 25780,
+    "sha256": "ef43fb0f6c528997502d1246fa81f401bb17218141437bc3cab2dadb5b5a2628"
+  },
+  {
+    "package": "autodesk-architecture-reference.zip",
+    "filename": "ST-VDC-01_ARCH_REF_v001.rvt.rvt",
+    "size_bytes": 93765632,
+    "sha256": "34e1f83c144ebf8c6540593d1e28593b261391266c1e960bd5e08291a9147623"
+  },
+  {
+    "package": "autodesk-hvac-reference.zip",
+    "filename": "ST-VDC-01_HVAC_REF_v001.rvt.rvt",
+    "size_bytes": 21544960,
+    "sha256": "3931652c4f7085cd9b1808467f35cc89bc9fd200fb8ef3429cc5badfdf8001c8"
+  },
+  {
+    "package": "autodesk-electrical-reference.zip",
+    "filename": "ST-VDC-01_ELEC_REFERENCE_ONLY_v001.rvt.rvt",
+    "size_bytes": 39976960,
+    "sha256": "38a165817c929cb607f0ea70254bc96eee68ca5c828a4f1f676298b3e75096d7"
+  }
+]
